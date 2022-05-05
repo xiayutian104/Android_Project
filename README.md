@@ -1,2 +1,0 @@
-# Android_Project
-这是我的Android应用开发课程的Project仓库，用于保存Android代码
